@@ -428,7 +428,7 @@ p {
 
 @media (max-width: 767px) {
   .header-nav .navigation .navbar .navbar-brand {
-    max-width: 89%;
+    max-width: 80%;
   }
 
   .header-nav .navigation .navbar .navbar-brand img {
