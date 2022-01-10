@@ -2274,7 +2274,7 @@ p {
 
 .business-area .business-content .business-item i {
   font-size: 60px;
-  -webkit-background-clip: text;
+  /* -webkit-background-clip: text; */
   -webkit-text-fill-color: transparent;
   background-image: linear-gradient(90deg, #ff48d6 0%, #fed853 100%);
 }
