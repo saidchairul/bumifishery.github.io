@@ -412,7 +412,7 @@ p {
 }
 
 .header-nav .navigation .navbar .navbar-brand img {
-  max-width: 50%;
+  max-width: 40%;
 }
 
 /* Mobile Navbar-Brand start*/
@@ -444,7 +444,7 @@ p {
 }
 
 .header-nav .navigation .navbar .navbar-brand-2 img {
-  max-width: 40%;
+  max-width: 35%;
 }
 
 /* Mobile Navbar-brand-2 start */
@@ -4785,7 +4785,7 @@ p {
   color: #b2b6c4;
   line-height: 34px;
   padding-right: 50px;
-  padding-top: 27px;
+  padding-top: 18px;
   padding-bottom: 27px;
 }
 
@@ -4808,7 +4808,7 @@ p {
 }
 
 .footer-widget-about img {
-  max-width: 70%;
+  max-width: 60%;
 }
 
 .footer-widget-about ul li {
