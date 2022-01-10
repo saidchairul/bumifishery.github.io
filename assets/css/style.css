@@ -4782,7 +4782,8 @@ p {
 }
 
 .footer-widget-about p {
-  color: #b2b6c4;
+  /* color: #b2b6c4; */
+  color: #0dedb1;
   line-height: 34px;
   padding-right: 50px;
   padding-top: 18px;
