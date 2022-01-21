@@ -1710,6 +1710,7 @@ p {
   background-image: -ms-linear-gradient(0deg, #32b46a 0%, #f0f247 100%);
   height: 150px;
   width: 150px;
+  color: #ffffff;
   text-align: center;
   line-height: 150px;
   font-size: 60px;
